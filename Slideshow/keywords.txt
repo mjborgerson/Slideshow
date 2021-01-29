@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map Pfor Slideshow
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+clSlideshow		KEYWORD1
+tBMPHDR888		KEYWORD1
+tWipeDir		KEYWORD1
+tKBStruct		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin					KEYWORD2
+AddtoPXPStats			KEYWORD2
+AddtoFileStats			KEYWORD2
+AddtoOutputStats		KEYWORD2
+RunPXP					KEYWORD2
+SetBurns				KEYWORD2
+GoodQVGA_RGB888			KEYWORD2
+SetOutMap				KEYWORD2
+BMPFileToBuffer			KEYWORD2
+Dissolve				KEYWORD2
+KenBurns				KEYWORD2
+SetFullFrame			KEYWORD2
+AtachOutput				KEYWORD2
+SetFlip					KEYWORD2
+SetFileSystem			KEYWORD2
+DisplayFile				KEYWORD2
+ShowLabel				KEYWORD2
+KBFIle					KEYWORD2
+DissolveInFile			KEYWORD2
+FadeInFile				KEYWORD2
+FadeOut					KEYWORD2
+StretchInFile			KEYWORD2
+WipeInFile				KEYWORD2
+PushInFile				KEYWORD2
+ClearStats				KEYWORD2
+ShowStats				KEYWORD2
+# Constants (LITERAL1)
+#######################################
